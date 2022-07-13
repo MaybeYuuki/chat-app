@@ -109,7 +109,7 @@
   margin-bottom: 40px;
 }
 
-.main_footer{
+.form{
   height: 90px;
   background-color: #DDDDDD;
   padding: 20px 40px;
@@ -137,6 +137,7 @@
   height: 50px;
   margin-left: 15px;
   padding: 0 20px;
+  display: flex;
 }
 
 .form-image {
@@ -146,7 +147,6 @@
   padding: 12px;
   width: 60px;
   margin: 5px 10px;
-  text-align: center;
 }
 
 .hidden {
